@@ -1,0 +1,9 @@
+docsents.py - p34
+docsents2.py - p34
+nounchunk.py - p35
+nounchunk2.py - p35
+trythis.py - p35
+span.py - p36
+disablepipe.py - p38
+custompipe.py - p40
+serializepipe.py - p42 
