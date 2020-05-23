@@ -1,0 +1,7 @@
+tokenization.py - p18
+lemmatization.py - p18
+lemmatization2.py - p20
+pos.py - p23
+dependency.py - p26
+dependency2.py - p28
+entities.py - p29 
