@@ -1,0 +1,5 @@
+similarity.py  - p66
+similarity2.py  - p70 
+nounsimilarity.py - p71
+trythis.py - p72
+entitysimilarity.py - p73
