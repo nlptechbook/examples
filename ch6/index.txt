@@ -1,0 +1,11 @@
+dependency.py - p76
+trythis.py - p77
+utterance.py - p78 
+matcher.py - p79 
+multi_pattern.py - p80 
+customized.py - p82 
+generate.py - p84 -p85 
+heads.py - p88 
+condensing.py - p90
+ticketbooking.py - p93 
+modifiers.py - p95
