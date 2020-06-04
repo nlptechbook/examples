@@ -1,0 +1,6 @@
+tverb_dobj.py - p113
+conjunct.py - p114
+trythis.py - p115 
+word_lists.py - p115 
+synonyms.py - p118 
+proforms.py - p123 -p125 
