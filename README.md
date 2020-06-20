@@ -27,7 +27,9 @@ These 2 minute tech tips can give you an instant picture of what spaCy can be us
 Check out these spaCy-powered Telegram bots to see the technology in action:
 
 [stocknewstip_bot](https://t.me/stocknewstip_bot)
+
 [stocknewstip](https://t.me/stocknewstip)
+
 
 
 
