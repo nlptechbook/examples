@@ -1,10 +1,12 @@
 # The Book Examples
 This repository contains the source code for the examples provided in the [Natural Language Processing with Python and spaCy](https://nostarch.com/NLPPython) book.
-> A request to those who bought the book through Amazon: Pleae make a review for the book on Amazon. Your opinion is important, since it can help others decide whether it is the right book for them.
+> A request to those who bought the book through Amazon: Please make a review for the book on Amazon. Your opinion is important, since it can help others decide whether it is the right book for them.
 # Extra Stuff 
 The author of the book has also published some extra stuff related to the use of spaCy.
 ## Articles 
-In these articles, you'll find scenario-focused examples on the use of spaCy:
+In these articles, you'll find scenario-focused examples on the use of spaCy and/or natural language processing techniques:
+
+[Python For Finance: Improve Your Stock Trading Performance with Scripting](https://medium.com/@jxireal/python-for-finance-improve-your-stock-trading-performance-with-scripting-d3f32b7ac124)
 
 [Getting Straight to the Point with Scraping and Natural Language Processing](https://medium.com/swlh/getting-straight-to-the-point-with-scraping-and-natural-language-processing-1a62aba65586)
 
