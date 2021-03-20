@@ -9,6 +9,8 @@ for token in doc:
       token = token.head
       if token not in list(token.head.lefts):
         phrase = phrase + ' ' + token.text
+        if list(token.rights):
+          phrase = phrase + ' ' + doc[token.i+1:].text
         break
     break
 while True:
