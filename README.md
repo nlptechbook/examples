@@ -1,4 +1,4 @@
-# The Book Examples
+# The Natural Language Processing with Python and spaCy book examples
 This repository contains the source code for the examples provided in the [Natural Language Processing with Python and spaCy](https://nostarch.com/NLPPython) book.
 > A request to those who bought the book through Amazon: Please make a review for the book on Amazon. Your opinion is important, since it can help others decide whether it is the right book for them.
 # Extra Stuff 
