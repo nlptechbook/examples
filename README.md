@@ -33,6 +33,11 @@ Check out these spaCy-powered Telegram bots to see the technology in action:
 
 [stocknewstip](https://t.me/stocknewstip)
 
+## Other projects
+Examine these spaCy-powered project:
 
+[RongoScript](https://github.com/nlptechbook/RongoScript)
+
+[SimilarVerbBank](https://github.com/nlptechbook/SimilarVerbBank-)
 
 
