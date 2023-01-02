@@ -8,6 +8,8 @@ The author of the book has also published some extra stuff related to NLP and/or
 ## Articles 
 In these articles, you'll find scenario-focused examples on the use of spaCy and/or natural language processing techniques:
 
+[Discovering Trends in BERT Embeddings of Different Levels for the Task of Semantic Context Determining](https://medium.com/p/268733fdb17e)
+
 [Python For Finance: Improve Your Stock Trading Performance with Scripting](https://medium.com/@jxireal/python-for-finance-improve-your-stock-trading-performance-with-scripting-d3f32b7ac124)
 
 [Getting Straight to the Point with Scraping and Natural Language Processing](https://medium.com/swlh/getting-straight-to-the-point-with-scraping-and-natural-language-processing-1a62aba65586)
