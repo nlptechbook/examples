@@ -8,6 +8,8 @@ The author of the book has also published some extra stuff related to NLP and/or
 ## Articles 
 In these articles, you'll find scenario-focused examples on the use of spaCy and/or natural language processing techniques:
 
+[Using Fourier Transform of Vector Representations Derived from BERT Embeddings for Semantic Closeness Evaluation](https://medium.com/p/9d91a7d4839c)
+
 [Discovering Trends in BERT Embeddings of Different Levels for the Task of Semantic Context Determining](https://medium.com/p/268733fdb17e)
 
 [Python For Finance: Improve Your Stock Trading Performance with Scripting](https://medium.com/@jxireal/python-for-finance-improve-your-stock-trading-performance-with-scripting-d3f32b7ac124)
