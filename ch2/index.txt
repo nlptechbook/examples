@@ -1,6 +1,7 @@
 tokenization.py - p18
 lemmatization.py - p18
-lemmatization2.py - p20
+lemmatization2.py - p20 (for spaCy 2.x)
+lemmatization2b.py - p20 (for spaCy 3.x)
 pos.py - p23
 dependency.py - p26
 dependency2.py - p28
