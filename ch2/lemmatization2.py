@@ -1,3 +1,4 @@
+# For spaCy 2.x
 import spacy
 from spacy.symbols import ORTH, LEMMA
 nlp = spacy.load('en')
